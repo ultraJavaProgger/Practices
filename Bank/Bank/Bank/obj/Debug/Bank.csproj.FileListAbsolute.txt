@@ -1,0 +1,7 @@
+C:\Users\Анна\Downloads\Bank\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Анна\Downloads\Bank\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Анна\Downloads\Bank\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Анна\Downloads\Bank\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Анна\Downloads\Bank\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Downloads\Bank\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Анна\Downloads\Bank\Bank\Bank\obj\Debug\Bank.pdb
